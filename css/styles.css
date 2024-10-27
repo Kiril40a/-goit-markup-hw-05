@@ -489,6 +489,10 @@ margin: 0 auto;
     border: none;
     border-radius: 4px;
 }
+.footer-subscribe-ico {
+    margin-left: 16px;
+    
+}
 
 .backdrop {
     position: fixed;
