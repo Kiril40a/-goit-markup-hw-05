@@ -657,6 +657,8 @@ margin: 0 auto;
     align-items: center;
     justify-content: center;
     fill: transparent;
+    margin-right: 8px;
+
 }
 .modal-checkbox:checked + .modal-checkbox-label > .modal-custom-checkbox {
     background-color: #404bbf;
@@ -671,6 +673,7 @@ margin: 0 auto;
     display: block;
     min-width: 169px;
     height: 56px;
+    margin: 0 auto;
     font-family: "Roboto", sans-serif;
     font-size: 16px;
     font-weight: 500;
@@ -681,6 +684,6 @@ margin: 0 auto;
     background-color: #4D5AE5;
     border: none;
     transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
-    
+
 
 }
